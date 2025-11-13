@@ -1,9 +1,9 @@
 # 🔐 SecureX
 
-Link -> https://securx.netlify.app/
-
 **SecureX** is a cybersecurity-based project focused on protecting users’ systems and data from online threats.  
 It helps detect, analyze, and prevent security risks using real-time monitoring and smart authentication methods.
+
+Link -> https://securx.netlify.app/
 
 ---
 
